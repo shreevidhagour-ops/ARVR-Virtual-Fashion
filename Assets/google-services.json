@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836142276563",
+    "project_id": "arvr-virtual-fashion",
+    "storage_bucket": "arvr-virtual-fashion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836142276563:android:2581b49ab24a8e933cd926",
+        "android_client_info": {
+          "package_name": "com.teamfashion.aistylist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Oy0e-tsDzeLgQIP0qCXtKLC7NyKQWTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
